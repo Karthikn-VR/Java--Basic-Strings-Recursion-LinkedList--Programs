@@ -15,8 +15,10 @@ public class LinkedList{
                 temp = newnode;
             }
             else{
+                if(temp != null){
                 temp.next = newnode;
                 temp = newnode;
+                }
             }
         }
         Node t = head;

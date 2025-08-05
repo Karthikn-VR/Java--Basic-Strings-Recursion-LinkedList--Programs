@@ -16,8 +16,10 @@ public class InsertAtBegLL {
             temp = nn;
         }
         else{
-            temp.next = nn;
-            temp = nn;
+            if (temp != null) {
+            temp.next = head;
+}
+
         }
 
     }
@@ -32,7 +34,7 @@ public class InsertAtBegLL {
         }
     
 }
- public static Node InertNodeatpos(Node head , int pos , int newval ){
+static Node InertNodeatpos(Node head , int pos , int newval ){
     Node newnn = new Node(newval);
     Node curr = head;
     if(pos == 1 ){
