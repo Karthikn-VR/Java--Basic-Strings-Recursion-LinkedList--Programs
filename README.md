@@ -3,48 +3,6 @@
 This repository contains multiple Java programs organized into different categories such as **Basics**, **Data Structures**, **Recursion & Functions**, and **Strings**.
 It is intended for practicing core Java concepts, problem-solving, and algorithm implementation.
 
-## 📂 Folder Structure
-
-```
-.
-├── Basics-Java
-│   ├── Addition.java
-│   ├── Bonus.java
-│   ├── CharacterOrNot.java
-│   ├── HelloWorld.java
-│   ├── LargestNumber.java
-│   ├── LeapYear.java
-│   ├── PowerOfNumbers.java
-│   ├── PrimeNumbers.java
-│   ├── StudentFirstList.java
-│   ├── WelcomeName.java
-│
-├── Data-Structures
-│   ├── CircularLinked.java
-│   ├── DeleteLl.java
-│   ├── DoublyLinkedList.java
-│   ├── InsertAtBegLl.java
-│   ├── LinkedList.java
-│   ├── LinkedListBeg.java
-│   ├── RemoveAtSpecificPos.java
-│   ├── ReverseStringLl.java
-│   ├── SwapElementsLl.java
-│
-├── Recursion-Functions-Java
-│   ├── CalculatingFactorials.java
-│   ├── ClaculatingTotalNumbers.java
-│   ├── CountingBits.java
-│   ├── FibonacciSequence.java
-│   ├── GreatestCommonDivisor.java
-│   ├── LargestElementInArray.java
-│   ├── StringLength.java
-│
-└── Strings
-    ├── BasicsString.java
-    ├── CharacterCount.java
-    ├── LowerCaseCount.java
-```
-
 ---
 
 ## 🚀 How to Run
